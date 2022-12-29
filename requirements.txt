@@ -1,0 +1,7 @@
+json
+ujson
+nujson
+orjson
+simplejson
+hjson
+python-rapidjson
