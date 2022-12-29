@@ -1,4 +1,3 @@
-json
 ujson
 nujson
 orjson
